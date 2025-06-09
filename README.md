@@ -66,3 +66,5 @@ My personal branding portfolio with 3D elements
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malchi0403&theme=radical)](https://git.io/streak-stats)
 
+![Metrics](https://github.com/malchi0403/malchi0403/blob/main/metrics.svg)
+
