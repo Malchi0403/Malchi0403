@@ -1,40 +1,69 @@
-# Hi there 👋, I'm Malchi
+# Hi there, I'm Misael Malchiram Timpolas 👋
 
-I’m a passionate Frontend Engineer from Indonesia 🇮🇩 who loves building clean and modern UIs with React, Next.js, and Tailwind CSS. I also enjoy working with 3D using Three.js and exploring backend with Golang.
+### Fullstack Developer | Web & Mobile Enthusiast | Problem Solver
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://malchiram.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misaeltimpolas04@gmail.com)
 
-## 💼 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on: `React`, `Next.js`, and `Three.js` projects
-- 🌱 I’m currently learning: `Web3`, `Rust`, and advanced `Golang`
-- ⚡ Fun fact: I enjoy solving performance issues and debugging like solving puzzles
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/malchi0403)
+I'm an experienced Fullstack Developer with expertise in both frontend and backend development. I enjoy building seamless, user-friendly digital experiences and solving complex problems through code. My journey includes working with various technologies across web and mobile platforms, from concept to deployment.
 
----
+## 🛠️ Technologies & Skills
 
-## 🧰 Tech Stack
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Backend
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=node.js&logoColor=white)
 
----
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 📈 GitHub Stats
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 💼 Professional Experience
+
+- **Frontend Engineer** at New Oriental Club 88 (Aug 2023 - Aug 2024)
+- **Freelance Fullstack Developer** (2025 - Present)
+- **Bootcamp Graduate** at Dumbways Indonesia (2023)
+
+## 🌟 Featured Projects
+
+### [GPdI Shekinah Website](https://www.gpdishekinah.online)
+A complete church website with custom admin panel
+- **Tech**: Next.js, Golang, MySQL, AWS, Docker
+
+### [Dewe Tour](https://projectstour.vercel.app)
+Tour package booking platform
+- **Tech**: React, Golang, PostgreSQL, Midtrans
+
+### [3D Rootopia (Unfinished)](https://3d-rootopia.vercel.app)
+Interactive 3D website with Three.js
+- **Tech**: Next.js, Three.js, Tailwind CSS
+
+### [Portfolio Website](https://malchiram.vercel.app)
+My personal branding portfolio with 3D elements
+- **Tech**: React, Three.js, Framer Motion
+
+## 📫 Get in Touch
+- Email: misaeltimpolas04@gmail.com
+- Phone: +6282114057823
+- Portfolio: [malchiram.vercel.app](https://malchiram.vercel.app)
+
+## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malchi0403&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malchi0403&layout=compact&theme=radical)
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/malchi0403)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://malchiram.vercel.app)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malchi0403&layout=compact&theme=radical)
