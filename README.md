@@ -27,8 +27,7 @@ I’m a passionate Frontend Engineer from Indonesia 🇮🇩 who loves building 
 
 ## 📈 GitHub Stats
 
-![Malchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malchi0403&show_icons=true&theme=radical&cache_seconds=0)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malchi0403&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malchi0403&layout=compact&theme=radical)
 
